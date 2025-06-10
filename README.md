@@ -40,8 +40,8 @@ cd wifi-detector-app
 npm install
 
 3. Start the project
-Edit
 npx expo start
+
 Scan the QR code with the Expo Go app on your device.
 
 📦 Install Dependencies
